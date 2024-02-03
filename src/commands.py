@@ -1,7 +1,3 @@
-import datetime
-import math
-import plotly.express as px
-
 from asyncio import sleep
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update, User
 from telegram.ext import ContextTypes, ConversationHandler
